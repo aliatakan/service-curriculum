@@ -3,7 +3,7 @@ This Java service approves or rejects applications after checking the studentlim
 
 ## Getting Started
 
-This repository contains example project for using AWS kinesis with Java Spring Boot and message-driven architecture concept. I used PostgreSQL as a RDBMS.
+This repository contains example project for using AWS kinesis with Java Spring Boot and message-driven architecture concept. I used PostgreSQL as a RDBMS. Related article is https://engineering.cimri.com/mikroservislerde-event-driven-veri-y%C3%B6netimi-5834b1f7c194
 
 ### Prerequisites
 
